@@ -1,10 +1,10 @@
-package com.atsignjar.CurrenyConverter;
+package com.atsignjar.currencyconverter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CurrenyConverterApplicationTests {
+class CurrencyConverterApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.atsignjar.CurrenyConverter;
+package com.atsignjar.currencyconverter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CurrenyConverterApplication {
+public class CurrencyConverterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CurrenyConverterApplication.class, args);
+		SpringApplication.run(CurrencyConverterApplication.class, args);
 	}
 
 }
