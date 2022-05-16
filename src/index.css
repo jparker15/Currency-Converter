@@ -1,5 +1,5 @@
 body {
-	background-color: aliceblue;
+	background-color: lightcoral;
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -7,12 +7,13 @@ body {
 }
 
 .heading {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Lobster', cursive;
 	margin: 35px auto 20px;
+  color: lightpink;
 }
 
 hr {
-	border-top: 2px solid black;
+	border-top: 2px solid pink;
 	width: 40%;
 	margin-bottom: 55px;
 }
