@@ -14,6 +14,8 @@ var searchValue;
 
 // Event when currency is changed
 fromCurrecy.addEventListener('change', (event) => {
+	console.log(search.attributes);
+	search.setAttribute('placeholder',fromCurrecy.value)
 	resultFrom = `${event.target.value}`;
 });
 
